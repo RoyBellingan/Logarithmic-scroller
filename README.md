@@ -14,3 +14,5 @@ The idea is to SHOW a small number of option (and thus save spaces) 10 option.
 I can not proove but this, but 98% of the time with a max of 5 click you reach any page (in this set ot 1000)!
 
 Is a logaritmic scroller, instead of a linear one
+
+A live example http://seisho.us/log3.php?s=1
